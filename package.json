@@ -1,0 +1,49 @@
+{
+  "name": "insanimate",
+  "version": "0.0.1",
+  "description": "Animation library for React and PureJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagurban/insanimate.git"
+  },
+  "author": "Igor Gurban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iagurban/insanimate/issues"
+  },
+  "homepage": "https://github.com/iagurban/insanimate#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "browserify-shim": "^3.8.13",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-debug": "^3.1.0",
+    "gulp-if": "^2.0.2",
+    "gulp-livescript": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "livescript": "^1.5.0",
+    "lodash": "^4.17.4",
+    "path": "^0.12.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "bezierjs": "0.0.4",
+    "gulp-plumber": "^1.1.0",
+    "hammerjs": "^2.0.8",
+    "immutable": "^3.8.1",
+    "lodash": "^4.17.4",
+    "mathjs": "^3.10.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}

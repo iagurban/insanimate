@@ -1,0 +1,802 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wat",
+				"watch-task"
+			],
+			[
+				"gulp",
+				"gulp-changed"
+			],
+			[
+				"ex",
+				"externals"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"ini",
+				"initState"
+			],
+			[
+				"to",
+				"to-array"
+			],
+			[
+				"fro",
+				"fromJS"
+			],
+			[
+				"contr",
+				"control-points"
+			],
+			[
+				"con",
+				"control-points-changed"
+			],
+			[
+				"set",
+				"set-state"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"com",
+				"component-did-mount"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"cont",
+				"control-points"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"Bezi",
+				"BezierEditor"
+			],
+			[
+				"Bez",
+				"BezierEditor"
+			],
+			[
+				"crea",
+				"create-object"
+			],
+			[
+				"Ber",
+				"BezierEditor"
+			],
+			[
+				"create",
+				"create-factory"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"star",
+				"start-ts"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"dis",
+				"display-name"
+			],
+			[
+				"repe",
+				"repeat-bounce"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"map",
+				"map-values"
+			],
+			[
+				"anim",
+				"animations"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"l",
+				"log\tlog"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"nu",
+				"number-to-pixel"
+			],
+			[
+				"raf-",
+				"raf-in-loop"
+			],
+			[
+				"demo",
+				"demo-ref"
+			],
+			[
+				"eas",
+				"ease-in-sine"
+			],
+			[
+				"Ea",
+				"Easing"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"def",
+				"define-property"
+			],
+			[
+				"anima",
+				"animation-did-end"
+			],
+			[
+				"raf",
+				"raf-in-loop"
+			],
+			[
+				"ra",
+				"raf-id"
+			],
+			[
+				"ani",
+				"animations"
+			],
+			[
+				"_o",
+				"_observable-observers"
+			],
+			[
+				"out",
+				"out-max"
+			],
+			[
+				"in-m",
+				"in-max"
+			],
+			[
+				"in-",
+				"in-min"
+			],
+			[
+				"sca",
+				"scale-to-01"
+			],
+			[
+				"scal",
+				"scale-from-01"
+			],
+			[
+				"an",
+				"animated-ref"
+			],
+			[
+				"requ",
+				"request-animation-frame"
+			],
+			[
+				"di",
+				"display-name"
+			],
+			[
+				"Eas",
+				"EasingsView"
+			],
+			[
+				"conn",
+				"gulp-connect"
+			],
+			[
+				"v",
+				"vinyl-buffer"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"vi",
+				"vinyl-source-stream"
+			],
+			[
+				"vinyl-b",
+				"vinyl-browserify"
+			],
+			[
+				"vin",
+				"vinyl-transform"
+			],
+			[
+				"exter",
+				"externals"
+			],
+			[
+				"gul",
+				"gulp-debug"
+			],
+			[
+				"externa",
+				"external"
+			],
+			[
+				"exre",
+				"external"
+			],
+			[
+				"req",
+				"requires"
+			],
+			[
+				"re",
+				"requires"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"ease",
+				"ease-out-bounce"
+			],
+			[
+				"hal",
+				"__halfpi"
+			],
+			[
+				"res",
+				"rest2"
+			],
+			[
+				"nex",
+				"next2"
+			],
+			[
+				"Anim",
+				"Animation"
+			],
+			[
+				"tas",
+				"tasks-manager"
+			],
+			[
+				"tasks",
+				"tasks-manager"
+			],
+			[
+				"task",
+				"tasks-manager"
+			],
+			[
+				"wa",
+				"watch-task-name"
+			],
+			[
+				"br",
+				"brwsrfy"
+			],
+			[
+				"w",
+				"watch-task"
+			],
+			[
+				"ta",
+				"task-name"
+			],
+			[
+				"ls",
+				"ls-folder"
+			],
+			[
+				"brow",
+				"browserify-shim"
+			],
+			[
+				"gulp-u",
+				"gulp-uglify"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"clas",
+				"class-name"
+			],
+			[
+				"new",
+				"new-console-respone-data"
+			],
+			[
+				"Termi",
+				"TerminalConsoleModal"
+			],
+			[
+				"cons",
+				"console-ref"
+			],
+			[
+				"las",
+				"last-scrollable-size"
+			],
+			[
+				"scr",
+				"scroll-top"
+			],
+			[
+				"sc",
+				"scroll-after-update"
+			],
+			[
+				"tabl",
+				"table-ref"
+			],
+			[
+				"unl",
+				"unless"
+			],
+			[
+				"not",
+				"notify-all"
+			],
+			[
+				"char",
+				"char-code"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"get",
+				"get-history"
+			],
+			[
+				"did",
+				"did-execute"
+			],
+			[
+				"h",
+				"history"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"_h",
+				"_history"
+			],
+			[
+				"compo",
+				"componentWillReceiveProps"
+			],
+			[
+				"imm",
+				"immutableFromJS"
+			],
+			[
+				"Ter",
+				"TerminalConsoleModal"
+			],
+			[
+				"_",
+				"_items"
+			],
+			[
+				"Tr",
+				"TerminalConsole"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"un",
+				"unsub"
+			],
+			[
+				"comp",
+				"componentDidMount"
+			],
+			[
+				"class",
+				"className"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scripts/index.ls",
+			"settings":
+			{
+				"buffer_size": 98,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/scripts/app.ls",
+			"settings":
+			{
+				"buffer_size": 18956,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.ls",
+			"settings":
+			{
+				"buffer_size": 4504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "schem",
+		"selected_items":
+		[
+			[
+				"schem",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/an/development-altravert/insanimate",
+		"/home/an/development-altravert/insanimate/.tmp",
+		"/home/an/development-altravert/insanimate/demo",
+		"/home/an/development-altravert/insanimate/demo/scripts",
+		"/home/an/development-altravert/insanimate/demo/styles",
+		"/home/an/development-altravert/insanimate/demo/views",
+		"/home/an/development-altravert/insanimate/dist",
+		"/home/an/development-altravert/insanimate/scripts",
+		"/home/an/development-altravert/insanimate/styles"
+	],
+	"file_history":
+	[
+		"/home/an/development-altravert/insanimate/demo/scripts/app.ls",
+		"/home/an/development-altravert/insanimate/package.json",
+		"/home/an/development-altravert/insanimate/scripts/animator.ls",
+		"/home/an/development-altravert/insanimate/dist/index.html",
+		"/home/an/development-altravert/insanimate/demo/scripts/noop.ls",
+		"/home/an/development-altravert/insanimate/demo/views/index.html",
+		"/home/an/development-altravert/insanimate/gulpfile.ls",
+		"/home/an/development-altravert/insanimate/.tmp/demo/index.html",
+		"/home/an/development-altravert/insanimate/dist/vendor.js",
+		"/home/an/development-altravert/insanimate/noop.js",
+		"/home/an/development-altravert/insanimate/dist/index.js",
+		"/home/an/development-altravert/insanimate/.tmp/scripts/index.js",
+		"/home/an/development-altravert/insanimate/scripts/index.ls",
+		"/home/an/sproot-dev/webpack/javascripts/interface/react/components/base/console-modal.ls",
+		"/home/an/sproot-dev/webpack/javascripts/interface/react/components/base/index.ls",
+		"/home/an/sproot-dev/webpack/javascripts/interface/react/components/ws.ls"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post-bundle",
+			"prebu",
+			"post-bundle",
+			"did-m",
+			"GetBezierApproximation",
+			"set-style",
+			"map",
+			"repea",
+			"call",
+			"log",
+			"Animation",
+			" p:",
+			"p:",
+			"@p",
+			"get",
+			"log",
+			"animate",
+			"_ ",
+			"map-v",
+			"id",
+			"EasingIIRState",
+			"ls:",
+			"pipe",
+			"it",
+			"id",
+			"ConsoleStore",
+			"StatusSelection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EasingIIRFabric",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scripts/index.ls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo/scripts/app.ls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16992,
+								16992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.ls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3781,
+								3781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1617.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "insanimate.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 422.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

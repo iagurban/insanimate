@@ -1,0 +1,3 @@
+Animator = ->
+
+module.exports = {Animator}
